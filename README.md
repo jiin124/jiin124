@@ -20,13 +20,13 @@ I am particularly interested in structuring complex user preferences and domain 
 - **Personalized LLMs** — Multi-Aspect Preference Modeling, Personalized Generation, LLM Alignment (*Grounding What Users Care About*)
 - **LLM Agents & Recommender Systems** — Multi-Agent Recommendation, Self-Feedback, Explainable Recommendation 
 - **Knowledge Graphs & Ontology** — Ontology-based KG, Industrial Document Intelligence, KG-RAG (*Ontology-Based Knowledge Graphs for Industrial Standards*)
-- **Multi-Aspect Learning** — Unsupervised Labeling, Multilingual & Multi-Domain Review Analysis ([*MUSCAD*](https://arxiv.org/abs/2505.09286))
+- **Multi-Aspect Learning** — Unsupervised Labeling, Multilingual & Multi-Domain Review Analysis ([*MUSCAD*]([https://arxiv.org/abs/2505.09286](https://doi.org/10.1016/j.knosys.2025.115210)))
 
 **News**
 
-- **2026.09** — Our EMNLP 2026 paper was selected for an **Oral Presentation** 🌟.
+- **2026.09** — Our EMNLP 2026 paper was selected for an **Oral Presentation** (2.6%) 🌟.
 - **2026.09** — Our paper *Grounding What Users Care About: Multi-Aspect Personalized Modeling from Implicit Preferences* was accepted to **AACL-IJCNLP 2026 Main** 🎉.
-- **2026.08** — Our paper *Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring* was accepted to **EMNLP 2026 Main** 🎉.
+- **2026.08** — Our paper *Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring* was accepted to **EMNLP 2026 Main** (15.4%) 🎉.
 - **2026.08** — Received the **Best Paper Award** at the Korea Data Mining Society (KDMS) 2026 Summer Conference 🏆.
 - **2026.03** — Started teaching **Generative AI and LLM Agent Systems** in the Seegene AI Frontier program.
 - **2025.12** — Our paper *A Scalable Unsupervised Framework for Multi-Aspect Labeling of Multilingual and Multi-Domain Review Data* was accepted to **Knowledge-Based Systems** 🎉.
