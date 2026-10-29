@@ -24,6 +24,7 @@ I am particularly interested in structuring complex user preferences and domain 
 
 **News**
 
+- **2026.10** — Our AACL-IJCNLP 2026 paper was selected for an **Oral Presentation** 🌟.
 - **2026.09** — Our EMNLP 2026 paper was selected for an **Oral Presentation** (2.6%) 🌟.
 - **2026.09** — Our paper *Grounding What Users Care About: Multi-Aspect Personalized Modeling from Implicit Preferences* was accepted to **AACL-IJCNLP 2026 Main** 🎉.
 - **2026.08** — Our paper *Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring* was accepted to **EMNLP 2026 Main** (15.4%) 🎉.
