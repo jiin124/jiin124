@@ -42,7 +42,7 @@ I am particularly interested in structuring complex user preferences and domain 
 
 - **Grounding What Users Care About: Multi-Aspect Personalized Modeling from Implicit Preferences**\
   **Jiin Park**, Misuk Kim\
-  *AACL-IJCNLP Main, 2026* [[code](https://github.com/jiin124/maple_artifacts)]
+  *AACL-IJCNLP Main, 2026* **[Oral]** [[code](https://github.com/jiin124/maple_artifacts)]
 
 - **Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring**\
   **Jiin Park\***, Hyuna Jeon\*, Yoonseo Lee, Misuk Kim\
